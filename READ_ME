@@ -3,6 +3,6 @@ CET 3640 - Software for Computer control
 Programming concepts and software development techniques for computer controlled systems.
 Laboratory exercises apply these concepts to a variety of systems and devices.
 
-This repository reflects all the labaratory exercises i programmed for this course. 
+This repository reflects all the laboratory exercises i programmed for this course. 
 It's usually taught either in C++ or Java, since it's an object-oriented programming class.
 The Professor for this cource decided to use Java for this class as Java has no room for sequential programming as C++ does. 
